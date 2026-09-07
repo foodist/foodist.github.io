@@ -1,6 +1,6 @@
 品食录┇list.foodin.cn
 ===
-### Demo: [➡️ nav.mans.cc](https://nav.mans.cc)
+### Demo: [➡️ list.foodin.cn](https://list.foodin.cn)
 
 一个纯静态资源素材网址导航页面，相关内容为日常所在用，应该你也会有用到......
 
