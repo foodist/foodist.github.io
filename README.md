@@ -1,4 +1,4 @@
-漫斯書咖┇nav.mans.cc
+品食录┇list.foodin.cn
 ===
 ### Demo: [➡️ nav.mans.cc](https://nav.mans.cc)
 
